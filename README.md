@@ -9,6 +9,7 @@ There are two folders:
 -	Files used for building the website: myawesomewebsite.netlify.com
 
 There are 3 sections: 
+
 i.	connect to GitHub
 ii.	build your website
 iii.	deploy your website
